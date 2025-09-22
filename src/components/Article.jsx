@@ -360,34 +360,7 @@ const Article = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ fontStyle: "italic" }}>Buy it </span>
-                            <a
-                              target="_blank"
-                              rel="noreferrer, nofollow"
-                              style={{
-                                fontWeight: "bold",
-                                fontStyle: "italic",
-                              }}
-                              href="https://www.mrunalinirao.com/products/chitralekha-corset-with-lehenga?srsltid=AfmBOor47DChw9Gxy2bzKkQZ_BQwciOL3f9wobuR_s3OI7QKzDkLFhvw"
-                            >
-                              <span
-                                style={{
-                                  fontWeight: "bold",
-                                  fontStyle: "italic",
-                                }}
-                              >
-                                here
-                              </span>
-                            </a>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
+                    
                     <div className="StoriesInfo_left_innercntr-full-width">
                       <div className="">
                         <div className="rich-text_wrapper">
